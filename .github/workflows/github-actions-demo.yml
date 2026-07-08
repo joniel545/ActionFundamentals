@@ -1,5 +1,5 @@
-jobs:
 name: GitHub Actions Demo
+
 on:
   push:
     branches: [ main ]
